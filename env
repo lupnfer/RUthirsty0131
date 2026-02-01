@@ -1,9 +1,2 @@
 vi ~/.claude/settings.json
 {
-  "env": {
-    "ANTHROPIC_AUTH_TOKEN": "7fb6eebcd0d64f69bfdab4a2c58da08d.L7j7R9IVCpmlWrVn",
-    "ANTHROPIC_BASE_URL": "https://open.bigmodel.cn/api/anthropic",
-    "API_TIMEOUT_MS": "3000000",
-    "CLAUDE_CODE_DISABLE_NONESSENTIAL_TRAFFIC": 1
-  }
-}
